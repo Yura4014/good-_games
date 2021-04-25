@@ -1,0 +1,63 @@
+header{
+    background-color: rgb(9, 144, 223) ;
+    margin-top: 0px;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    background: 
+    url("https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg") no-repeat 60% 60%,
+}
+
+
+a{
+    background-color: rgb(43, 115, 156) ;
+   margin-top:10px ;
+    margin-left:10px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    text-decoration:none;
+    color:black;
+}
+
+.Njv2{
+    margin-left: 20px;
+        background-color: rgb(43, 115, 156) ;
+}
+
+h1{
+    background-color: Orange;
+    margin-top: 0px;
+        text-align: center;
+}
+
+main{
+    margin-top: 0px;
+}
+
+footer{
+    margin-top: 0px;
+    background-color: rgb(9, 144, 223) ;
+}
+
+h2{
+    text-align: center;
+
+}
+
+.Njv1{
+    text-decoration:none;
+    color:black;
+}
+
+img{
+margin-left:270px ;
+}
+
+.Njv{
+background-color: rgb(9, 144, 223);
+}
+
+footer p{
+    margin-top: 0px;
+}
